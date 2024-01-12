@@ -9,7 +9,7 @@
 - [ ] Not alabilmek, notları özelleştirebilmek(Renk ayarı, vs.),
 - [ ] Yapılacaklar listesi, hatırlatıcılar ekleyebilmek, yapılacaklara bitiş tarihi ekleyebilmek ve yaklaşan işlemleri anasayfada görebilmek,
 
-### Geliştirmeye devam ettikce eklemeler olacak, eklenenler bu listede işaretlenecek.
+### *Geliştirmeye devam ettikce eklemeler olacak, eklenenler bu listede işaretlenecek.*
 
 ---
 
