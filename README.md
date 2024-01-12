@@ -1,8 +1,35 @@
-# React + Vite
+# Personal Organizer Uygulaması(Pergonizer)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+**Kısaca bahsedecek olursak, günlük hayatınızda göz önünde bulundurmanız gereken belli başlı şeyleri takip etmenize yardımcı olan bir araç diyebiliriz. Yapılabilecekler:**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [ ] Günlük harcamaları girme, yıl içerisinde günü gününe takip edebilmek,
+- [ ] Aylık giderleri ve gelirleri kaydedip ay sonu toplam hesabı izleyebilmek,
+- [ ] Not alabilmek, notları özelleştirebilmek(Renk ayarı, vs.),
+- [ ] Yapılacaklar listesi, hatırlatıcılar ekleyebilmek, yapılacaklara bitiş tarihi ekleyebilmek ve yaklaşan işlemleri anasayfada görebilmek,
+
+### Geliştirmeye devam ettikce eklemeler olacak, eklenenler bu listede işaretlenecek.
+
+---
+
+# Projeyi online olarak görüntülemek:
+
+---
+
+**Link oluştuktan sonra burada paylaşılacak.**
+
+---
+
+# Projeyi bilgisayarınızda açabilmek için:
+
+---
+
+###Bu adımları uygulayabilmek için bilgisayarınızda Node.js ve NPM yüklü olmalıdır!
+
+1. Projeyi kendi bilgisayarınızda **Visual Studio Code** kullanarak açabilmek için, dosyaları bilgisayarınıza indirdikten sonra proje klasörünü **Visual Studio Code** ile açın.
+2. **Visual Studio Code** içerisinde terminal açın.
+3. `npm i` komutunu terminalinizde çalıştırın.
+4. Gerekli kurulumlar tamamlandıktan sonra `npm run dev` komunutu çalıştırıp projeyi açabilir, isterseniz eklemeler yapabilirsiniz.
+
+---
