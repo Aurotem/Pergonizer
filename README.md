@@ -30,7 +30,7 @@
 
 ---
 
-###Bu adımları uygulayabilmek için bilgisayarınızda Node.js ve NPM yüklü olmalıdır!
+### Bu adımları uygulayabilmek için bilgisayarınızda Node.js ve NPM yüklü olmalıdır!
 
 1. Projeyi kendi bilgisayarınızda **Visual Studio Code** kullanarak açabilmek için, dosyaları bilgisayarınıza indirdikten sonra proje klasörünü **Visual Studio Code** ile açın.
 2. **Visual Studio Code** içerisinde terminal açın.
