@@ -13,7 +13,7 @@
 
 ---
 
-# Uygulamayı online olarak görüntülemek, uygulama olarak yüklemek:
+# Uygulamayı online olarak görüntülemek, uygulama olarak yüklemek için:
 
 ---
 
