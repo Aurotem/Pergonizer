@@ -13,11 +13,16 @@
 
 ---
 
-# Projeyi online olarak görüntülemek:
+# Uygulamayı online olarak görüntülemek, uygulama olarak yüklemek:
 
 ---
 
-**Link oluştuktan sonra burada paylaşılacak.**
+|Framework|Link|
+|---|---|
+|**React.js**|Link oluştuktan sonra burada paylaşılacak.|
+|**React Native**|Link oluştuktan sonra burada paylaşılacak.|
+
+
 
 ---
 
